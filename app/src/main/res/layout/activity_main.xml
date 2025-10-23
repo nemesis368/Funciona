@@ -41,7 +41,7 @@
         app:icon="@android:drawable/stat_sys_download"
         app:iconGravity="textStart"
         app:iconPadding="16dp"
-        app:iconTint="@android:color/white"
+        app:iconTint="@android:color/red"
 
         // Esto centra el botón vertical y horizontalmente
         app:layout_constraintTop_toTopOf="parent"
