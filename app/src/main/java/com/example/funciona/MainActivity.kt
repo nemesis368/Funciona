@@ -16,7 +16,7 @@ import org.json.JSONException
 class MainActivity : AppCompatActivity() {
 
     // URL del servicio JSON
-    private val url = "https://jsonplaceholder.typicode.com/posts"
+    private val url = "https://jsonplaceholder. typicode.com/posts"
     // Etiqueta para los logs
     private val TAG = "MainActivity"
 
