@@ -1,6 +1,6 @@
 package com.example.funciona
 
-
+//69
 import android.os.Bundle
 import android.util.Log
 import androidx.activity.enableEdgeToEdge
