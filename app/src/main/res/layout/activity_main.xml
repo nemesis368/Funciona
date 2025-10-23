@@ -34,7 +34,8 @@
         android:textColor="@android:color/white"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:backgroundTint="#03A9F4"
+        app:backgroundTint="#fffff"
+        //Equipo Karen, Erick, Brian, Alejandro
         app:cornerRadius="24dp"
         app:elevation="8dp"
         app:icon="@android:drawable/stat_sys_download"
